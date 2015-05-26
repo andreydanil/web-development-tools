@@ -2,7 +2,7 @@
 
 ## Getting started
 ---
-First, lets start with an introduction to PHP. Begin by reading this referce for PHP best practices, accepted coding standards, and links to authoritative tutorials arund the Web [php-the-right-way](http://www.phptherightway.com)
+First, lets start with an introduction to PHP. Begin by reading this reference for PHP best practices, accepted coding standards, and links to authoritative tutorials arund the Web [php-the-right-way](http://www.phptherightway.com)
 
 ## Full Stack Developer Role
 ---

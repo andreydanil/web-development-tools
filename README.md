@@ -145,11 +145,11 @@ We will police this list now and then to make sure new listings meet the require
 [XAMPP](https://www.apachefriends.org/index.html) is the most popular PHP development environment
 XAMPP is a completely free, easy to install Apache distribution containing MySQL, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use. 
 
-# Code management
+# Code Management
 ---
 [GitHub](https://github.com/) is a web-based Git repository hosting service, which offers all of the distributed revision control and [source code management (SCM)](http://en.wikipedia.org/wiki/Revision_control) functionality of Git as well as adding its own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as wikis, task management, and bug tracking and feature requests for every project.
 
-# Useful tools to start a project 
+# Useful Tools to Start a Project 
 ---
 * [CodeIgniter](http://www.codeigniter.com/) (v3.0.0) - PHP framework
 * [Bootstrap](http://getbootstrap.com/) (v3.3.4) - popular frontend framework
@@ -157,7 +157,7 @@ XAMPP is a completely free, easy to install Apache distribution containing MySQL
 * [Image CRUD](http://www.grocerycrud.com/image-crud) (v0.6) - CRUD library for image management
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) (v2.0.5) - bootstrap theme for backend system
 
-# Misc resouces
+# Misc Resouces
 ---
 A curated list of amazingly awesome open source resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
